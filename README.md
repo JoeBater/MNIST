@@ -1,2 +1,2 @@
 # MNIST
-MNIST problem
+Playing with the MNIST problem
